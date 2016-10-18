@@ -1,16 +1,10 @@
 # JavaScript Postwork Plan
 
-## Topic List
-  + Partials
-  + Serializers
-  + AJAX / Promises
-  + Action Cable
 
 ## Lab List
 
   + Sinatra
    + Sinatra NYC
-
   + OO JavaScript Section
     + Creating Objects
     + Inheritance Patterns
